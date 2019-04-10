@@ -1,4 +1,4 @@
-#Make dataset of Reddit network statistics by week
+#Make dataset of Reddit network statistics by week 
 
 import glob
 import json
